@@ -3803,6 +3803,12 @@
 		(uuid "48d8a46d-aca3-4056-bd3a-18f89e6fc7e3")
 	)
 	(junction
+		(at 59.69 185.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4abe38c9-0bad-4776-a23f-fc6675fc1100")
+	)
+	(junction
 		(at 60.96 171.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3970,6 +3976,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 93.98) (xy 106.68 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09e2db6b-628d-4bca-b0f5-0f261779a59e")
+	)
+	(wire
+		(pts
 			(xy 81.28 182.88) (xy 83.82 182.88)
 		)
 		(stroke
@@ -4130,6 +4146,16 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 97.79) (xy 115.57 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c01e99d-63b6-4195-a7b6-51e380da0192")
+	)
+	(wire
+		(pts
 			(xy 60.96 168.91) (xy 60.96 171.45)
 		)
 		(stroke
@@ -4147,6 +4173,16 @@
 			(type default)
 		)
 		(uuid "30dc1722-417a-47dd-a388-1e708994d309")
+	)
+	(wire
+		(pts
+			(xy 114.3 100.33) (xy 114.3 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "322be9c2-2200-4788-a510-c5428828ccb3")
 	)
 	(wire
 		(pts
@@ -4190,6 +4226,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 185.42) (xy 50.8 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b2a0d61-755f-43c1-875b-1a3302846bce")
+	)
+	(wire
+		(pts
 			(xy 139.7 97.79) (xy 140.97 97.79)
 		)
 		(stroke
@@ -4197,6 +4243,16 @@
 			(type default)
 		)
 		(uuid "3d84a7ac-521c-458a-b172-03dd39bda4ea")
+	)
+	(wire
+		(pts
+			(xy 106.68 105.41) (xy 106.68 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e2fa85f-aa37-45d9-9560-8397f1d4bc98")
 	)
 	(wire
 		(pts
@@ -4270,6 +4326,16 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 93.98) (xy 106.68 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f30409e-3a9e-496d-90df-fcc8ccb266f1")
+	)
+	(wire
+		(pts
 			(xy 218.44 63.5) (xy 220.98 63.5)
 		)
 		(stroke
@@ -4340,7 +4406,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 185.42) (xy 50.8 185.42)
+			(xy 60.96 185.42) (xy 59.69 185.42)
 		)
 		(stroke
 			(width 0)
@@ -4387,16 +4453,6 @@
 			(type default)
 		)
 		(uuid "814a6ab6-ad35-4eeb-a1fa-6e2ded5a49c0")
-	)
-	(wire
-		(pts
-			(xy 115.57 97.79) (xy 114.3 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8219c27d-cc7c-4147-a417-6a697f4b63c4")
 	)
 	(wire
 		(pts
@@ -4480,6 +4536,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 101.6) (xy 106.68 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ee6f103-623e-4d6d-b4a0-2d6e31730894")
+	)
+	(wire
+		(pts
 			(xy 247.65 119.38) (xy 247.65 127)
 		)
 		(stroke
@@ -4507,6 +4573,16 @@
 			(type default)
 		)
 		(uuid "97b60b2e-bddd-43d8-b4d6-6bcdc59dfc07")
+	)
+	(wire
+		(pts
+			(xy 114.3 105.41) (xy 106.68 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97d97408-d1af-454f-a21e-a1093acbd46d")
 	)
 	(wire
 		(pts
@@ -4670,6 +4746,16 @@
 	)
 	(wire
 		(pts
+			(xy 113.03 97.79) (xy 113.03 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca2d7807-6f2d-4de9-af39-7810799ebe9b")
+	)
+	(wire
+		(pts
 			(xy 121.92 82.55) (xy 124.46 82.55)
 		)
 		(stroke
@@ -4717,6 +4803,16 @@
 			(type default)
 		)
 		(uuid "d2e7efaa-3b03-4597-8a1a-b13713995583")
+	)
+	(wire
+		(pts
+			(xy 114.3 102.87) (xy 114.3 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2f046c5-3989-44d0-8321-24f54a385ac2")
 	)
 	(wire
 		(pts
@@ -4920,6 +5016,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 101.6) (xy 106.68 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3e00cac-d864-4245-8f74-d749f144692b")
+	)
+	(wire
+		(pts
 			(xy 214.63 107.95) (xy 219.71 107.95)
 		)
 		(stroke
@@ -5039,7 +5145,7 @@
 		)
 		(uuid "0f9ca339-7cd4-4aa1-a2b3-e268100c770f")
 	)
-	(text "0.95$"
+	(text "1.8$"
 		(exclude_from_sim no)
 		(at 79.756 56.896 0)
 		(effects
@@ -5059,7 +5165,7 @@
 		)
 		(uuid "509fd670-09eb-464c-80e9-9a7ba454d3b2")
 	)
-	(text "Charger 3"
+	(text "Charger 2\n"
 		(exclude_from_sim no)
 		(at 221.742 55.118 0)
 		(effects
@@ -5085,7 +5191,7 @@
 		)
 		(uuid "616b1f89-eb11-4171-9fbc-92b3a7bbb923")
 	)
-	(text "Charger 2"
+	(text "Charger 3"
 		(exclude_from_sim no)
 		(at 133.35 54.864 0)
 		(effects
@@ -8419,7 +8525,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94128c56-003e-4d12-b75e-36eb6730640a")
-		(property "Reference" "J1"
+		(property "Reference" "STAT3"
 			(at 211.455 119.38 0)
 			(effects
 				(font
@@ -8477,7 +8583,7 @@
 		(instances
 			(project ""
 				(path "/abe2d707-f40d-456a-8d07-9815f6d9031d"
-					(reference "J1")
+					(reference "STAT3")
 					(unit 1)
 				)
 			)
@@ -9968,7 +10074,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
-		(at 109.22 100.33 0)
+		(at 111.76 100.33 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9976,7 +10082,7 @@
 		(dnp no)
 		(uuid "cb5aa686-b402-47a2-bfa0-f514c69b374b")
 		(property "Reference" "STAT2"
-			(at 108.458 93.472 0)
+			(at 112.522 107.188 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9984,7 +10090,7 @@
 			)
 		)
 		(property "Value" "STAT"
-			(at 109.22 96.012 0)
+			(at 111.76 104.648 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9992,7 +10098,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical"
-			(at 109.22 100.33 0)
+			(at 111.76 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10001,7 +10107,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 109.22 100.33 0)
+			(at 111.76 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10010,7 +10116,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
-			(at 109.22 100.33 0)
+			(at 111.76 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10980,6 +11086,72 @@
 			(project "Li-po_chargers_tester"
 				(path "/abe2d707-f40d-456a-8d07-9815f6d9031d"
 					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 59.69 185.42 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ff8b8970-5870-4d96-8d1f-3b4c001165f0")
+		(property "Reference" "GND1"
+			(at 59.055 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND"
+			(at 70.612 190.246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+			(at 54.61 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 54.61 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 59.69 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c5a98550-b107-4432-a7af-24db151bca31")
+		)
+		(instances
+			(project "Li-po_chargers_tester"
+				(path "/abe2d707-f40d-456a-8d07-9815f6d9031d"
+					(reference "GND1")
 					(unit 1)
 				)
 			)
